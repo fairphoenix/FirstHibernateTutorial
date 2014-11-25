@@ -7,6 +7,7 @@
     <groupId>org.hibernate.tutorials</groupId>
     <artifactId>hibernate-tutorial</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>FirstHibernateTutorial</name>
 
     <build>
