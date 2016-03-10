@@ -94,7 +94,7 @@
 
 
     <scm>
-        <connection>scm:git:git@github.com:fairphoenix/FirstHibernateTutorial.git</connection>
+        <connection>scm:git:ssh://github.com:fairphoenix/FirstHibernateTutorial.git</connection>
         <url>git@github.com:fairphoenix/FirstHibernateTutorial.git</url>
       <tag>hotfix2</tag>
   </scm>
