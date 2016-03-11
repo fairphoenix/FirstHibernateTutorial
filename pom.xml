@@ -7,6 +7,7 @@
     <version>1.2-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>FirstHibernateTutorial</name>
+    <!--some comment ot commit-->
 
 
     <dependencies>
