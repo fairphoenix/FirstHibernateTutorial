@@ -4,7 +4,7 @@
 
     <groupId>org.hibernate.tutorials</groupId>
     <artifactId>hibernate-tutorial</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>FirstHibernateTutorial</name>
     <!--new develop work5-->
@@ -97,7 +97,7 @@
     <scm>
         <connection>scm:git:@github.com:fairphoenix/FirstHibernateTutorial.git</connection>
         <url>git@github.com:fairphoenix/FirstHibernateTutorial.git</url>
-    <tag>HEAD</tag>
+    <tag>hotfix3</tag>
   </scm>
 
 
